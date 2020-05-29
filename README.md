@@ -14,7 +14,7 @@ We presented our findings at the annual summer research symposium in September, 
 
 Here is our research poster.
 
-![Poster](researchposter.pdf)
+![Poster](researchposter.png)
 
 ## Credits
 
