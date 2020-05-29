@@ -1,5 +1,4 @@
 ## Summer Undergraduate Research Fellowship: Classifying News Articles
-# June-Aug 2018
 
 In response to the growing media crisis, this research project aims to use machine learning to quantify and classify news articles. The research team consists of Annabelle Gary ‘20, Jason Greenfield ‘20, Samantha Rydzewski ‘21, and Lesley Zheng ‘21, working with Professor Scott Alfeld in the computer science department.
 
@@ -18,3 +17,5 @@ Here is our research poster.
 ## Credits
 
 Annabelle Gary ‘20, Jason Greenfield ‘20, Samantha Rydzewski ‘21, Lesley Zheng ‘21, Scott Alfeld.
+
+Completed August 2018.
